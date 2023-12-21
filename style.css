@@ -1,0 +1,17 @@
+    .container {
+        position: relative;
+        width: 350px;
+        height: 350px;
+        border: 1px solid #000;
+    }
+
+    .block {
+        position: absolute;
+        border: 1px solid #000;
+        box-sizing: border-box;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+        font-weight: bold;
+    }
